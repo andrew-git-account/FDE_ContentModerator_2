@@ -1,0 +1,22 @@
+{
+  "post_id": "def-456",
+  "author_id": "user-234",
+  "author_account_age_days": 450,
+  "author_post_count": 340,
+  "author_reputation": 87,
+  "subforum": "painters",
+  "content": "Your blending is terrible. The highlights are completely wrong and the shadows look like mud. This is amateur work at best. You should go back to basics before posting here.",
+  "created_at": "2026-04-30T10:22:00Z",
+  "flag_count": 5,
+  "flagged_reasons": ["harassment", "harassment", "harassment", "off-topic", "harassment"],
+  "reactions_count": 3,
+  "is_sponsor_account": false,
+  "is_on_watchlist": false,
+  "edit_count": 0,
+  "parent_post_id": "xyz-111",
+  "parent_post_content": "Here's my first Space Marine! C&C welcome!",
+  "subforum_norms": {
+    "critique_rule": "no_critique_without_invitation",
+    "critique_invited": true
+  }
+}

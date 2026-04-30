@@ -1,0 +1,16 @@
+{
+  "post_id": "abc-123",
+  "author_id": "user-789",
+  "author_account_age_days": 2,
+  "author_post_count": 1,
+  "author_reputation": 0,
+  "subforum": "general",
+  "content": "Check out these amazing deals! https://spamsite1.com https://spamsite2.com https://spamsite3.com Buy now!",
+  "created_at": "2026-04-30T08:15:00Z",
+  "flag_count": 6,
+  "flagged_reasons": ["spam", "spam", "spam", "off-topic", "spam", "spam"],
+  "reactions_count": 0,
+  "is_sponsor_account": false,
+  "is_on_watchlist": false,
+  "edit_count": 0
+}

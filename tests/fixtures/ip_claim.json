@@ -1,0 +1,27 @@
+{
+  "claim_id": "claim-892",
+  "claim_type": "COPYRIGHT",
+  "post_id": "jkl-234",
+  "post_content": "[Image of painted miniature]",
+  "claimant_email": "artist@sculpturedragon.com",
+  "claimant_name": "SculptureDragon Studios",
+  "description": "This image shows our proprietary 'Dragonborn Warrior' sculpt which is sold exclusively through our Patreon. The poster has not purchased a license and is displaying our work without permission.",
+  "evidence_urls": [
+    "https://patreon.com/sculpturedragon/posts/12345",
+    "https://sculpturedragon.com/catalog/dragonborn-warrior"
+  ],
+  "submitted_at": "2026-04-30T07:45:00Z",
+  "status": "PENDING",
+  "post_details": {
+    "author_id": "user-999",
+    "author_account_age_days": 45,
+    "subforum": "gallery",
+    "created_at": "2026-04-29T20:10:00Z"
+  },
+  "claimant_history": {
+    "is_established_sculptor": true,
+    "previous_claims_count": 2,
+    "previous_claims_valid": 2,
+    "watchlist_note": "SculptureDragon - always escalate to Tom, full review required"
+  }
+}
