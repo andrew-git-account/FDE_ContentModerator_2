@@ -352,15 +352,32 @@ This asymmetry shapes the agent's risk posture:
 
 When building or refining this project, work toward these 7 deliverables:
 
-1. **Cognitive Load Map** — Jobs to be Done, cognitive zones, breakpoints for the 4 work streams
-2. **Delegation Suitability Matrix** — Scoring each task cluster on delegation dimensions
-3. **Volume × Value Analysis** — Plotting 4 work streams to identify primary agentic target
-4. **Agent Purpose Document** — Purpose, scope, KPIs, autonomy matrix, escalation triggers
-5. **System/Data Inventory** — What the agent needs to access (Discourse API, gallery API, Discord, Google Sheets, email)
-6. **Discovery Questions** — Questions for Tom that would materially change the design
-7. **This CLAUDE.md** — Workflow discipline and build guidance
+1. ✅ **Cognitive Load Map** — Jobs to be Done, cognitive zones, breakpoints for the 4 work streams
+   - Location: `Specification/03_Cognitive_Load_Map.md`
+   - Status: Complete - shows 95% of spam work is rule-bound, 40% of grey-zone is context-gathering (automatable)
 
-Store deliverables in `Deliverables/` directory with clear naming (e.g., `cognitive_load_map.md`, `agent_purpose_document.md`).
+2. ✅ **Delegation Suitability Matrix** — Scoring each task cluster on delegation dimensions
+   - Location: `Specification/04_Delegation_Suitability_Matrix.md`
+   - Status: Complete - 10 task clusters scored, weighted avg 58.7/70 (agent-led trending fully agentic)
+
+3. ✅ **Volume × Value Analysis** — Plotting 4 work streams to identify primary agentic target
+   - Location: `Specification/05_Volume_Value_Analysis.md`
+   - Status: Complete - spam + grey-zone context = 71% of value (£157K of £235K/year)
+
+4. ✅ **Agent Purpose Document** — Purpose, scope, KPIs, autonomy matrix, escalation triggers
+   - Location: `Specification/06_Agent_Purpose_Document.md`
+   - Status: Complete - full agent specification with 4 delegation archetypes, 18 micro-tasks catalogued
+
+5. ✅ **System/Data Inventory** — What the agent needs to access (Discourse API, gallery API, Discord, Google Sheets, email)
+   - Location: `Specification/07_System_Data_Inventory.md`
+   - Status: Complete - 8 systems analyzed, 212-224 hrs integration effort (revised from 136 hrs)
+
+6. ✅ **Discovery Questions** — Questions for Tom that would materially change the design
+   - Location: `Specification/08_Discovery_Questions.md`
+   - Status: Complete - 18 sharp questions with impact analysis (6 critical, 9 high, 3 medium severity)
+
+7. ✅ **This CLAUDE.md** — Workflow discipline and build guidance
+   - Status: Updated with completed deliverables and critical findings
 
 ## Tooling and System Constraints
 
